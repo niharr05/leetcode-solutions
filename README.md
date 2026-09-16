@@ -2,10 +2,10 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Problems Solved](https://img.shields.io/badge/Solved-30%2F30-brightgreen?style=for-the-badge)](#-problem-index)
+[![Problems Solved](https://img.shields.io/badge/Solved-37-brightgreen?style=for-the-badge)](#-problem-index)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-A curated collection of clean, modern, and optimized **C++** solutions for LeetCode problems (starting with the first 30 problems). Each solution is written with optimal time and space complexity in mind, adhering to modern C++ best practices.
+A curated collection of clean, modern, and optimized **C++** solutions for LeetCode problems. Each solution is written with optimal time and space complexity in mind, adhering to modern C++ best practices.
 
 ---
 
@@ -13,10 +13,10 @@ A curated collection of clean, modern, and optimized **C++** solutions for LeetC
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 9 | 30% |
-| 🟡 **Medium** | 16 | 53.3% |
-| 🔴 **Hard** | 5 | 16.7% |
-| **Total** | **30** | **100%** |
+| 🟢 **Easy** | 11 | 29.7% |
+| 🟡 **Medium** | 20 | 54.1% |
+| 🔴 **Hard** | 6 | 16.2% |
+| **Total** | **37** | **100%** |
 
 ---
 
@@ -54,6 +54,13 @@ A curated collection of clean, modern, and optimized **C++** solutions for LeetC
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./28%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp) | 🟢 Easy | `Two Pointers`, `String`, `String Matching` |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./29%20Divide%20Two%20Integers.cpp) | 🟡 Medium | `Math`, `Bit Manipulation` |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./30%20%20Substring%20with%20Concatenation%20of%20All%20Words.cpp) | 🔴 Hard | `Hash Table`, `String`, `Sliding Window` |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](./31%20Next%20Permutation.cpp) | 🟡 Medium | `Array`, `Two Pointers` |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./32%20Longest%20Valid%20Parentheses.cpp) | 🔴 Hard | `String`, `Dynamic Programming`, `Stack` |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./33%20Search%20in%20Rotated%20Sorted%20Array.cpp) | 🟡 Medium | `Array`, `Binary Search` |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./34%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp) | 🟡 Medium | `Array`, `Binary Search` |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./35%20Search%20Insert%20Position.cpp) | 🟢 Easy | `Array`, `Binary Search` |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [C++](./1621%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments.cpp) | 🟡 Medium | `Math`, `Dynamic Programming`, `Combinatorics` |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [C++](./2078%20Two%20Furthest%20Houses%20With%20Different%20Colors.cpp) | 🟢 Easy | `Array`, `Greedy` |
 
 ---
 
@@ -93,9 +100,10 @@ LeetCode Solution/
 ├── README.md
 ├── 1 Tow Sum.cpp
 ├── 2 Add Two Numbers.cpp
-├── 3 Longest Substring Without Repeating Characters.cpp
-...
-└── 30  Substring with Concatenation of All Words.cpp
+├── ...
+├── 35 Search Insert Position.cpp
+├── 1621 Number of Sets of K Non-Overlapping Line Segments.cpp
+└── 2078 Two Furthest Houses With Different Colors.cpp
 ```
 
 ---
