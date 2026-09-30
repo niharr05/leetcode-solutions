@@ -11,8 +11,8 @@ A collection of LeetCode solutions in **C++** and **Python 3**, focused on clean
 
 ```text
 LeetCode Solution/
-├── C++/          # Solutions implemented in C++ (80+ solutions)
-├── Python3/      # Solutions implemented in Python 3 (13+ solutions)
+├── C++/          # Solutions implemented in C++ (50+ solutions)
+├── Python3/      # Solutions implemented in Python 3 (50+ solutions)
 └── README.md     # Documentation and guide
 ```
 
